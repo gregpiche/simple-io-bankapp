@@ -1,4 +1,4 @@
-# Simple I/O bankapp in C
+# I/O bankapp in C
 
 ## Background
 
